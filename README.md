@@ -1,57 +1,64 @@
-<p align="center">
-  <a href="https://github.com/MouadBourquouquou">
-    <img width="80%" alt="Hello, I'm Mouad. I love to code!" src="./assets/gh-readme-header.png" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mouad-Bourquouquou">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mouad+Bourquouquou....;Nice+to+meet+you!&center=true&size=30">
   </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/mouad-bourquouquou/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/mouad.bourquouquou/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Mouad Bourquouquou, a computer science engineering student from Morocco.
+  <br><br>
+  🎓 I'm studying at ENSA Marrakech, majoring in Computer Science.
+  <br>
+  🖥️ I'm a front-end developer with experience in HTML, CSS, JavaScript, and React.
+  <br>
+  💻 I also work with Python and MySQL for backend and data-related projects.
+  <br>
+  🔍 I'm currently learning advanced backend development using Express.js and MongoDB.
+  <br>
+  💬 Ask me anything or connect with me!
+  <br>
+  📫 How to reach me: <a href="mailto:mouadbourquouquou@gmail.com">mouadbourquouquou@gmail.com</a>
 </p>
 
-<br />
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Skills 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS3" height="25" src="images/css.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Express.js" height="25" src="images/express.svg"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
+</p>
 
-I'm a passionate self-taught Front-End developer and computer science engineering student from Morocco 🇲🇦
+<hr>
 
----
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<p align="center">
+  <img width=390 src="https://streak-stats.demolab.com/?user=Mouad-Bourquouquou&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mouad-Bourquouquou&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</p>
 
-**About me**
+<br>
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-Bourquouquou&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</p>
 
-- 🎓 Student at ENSA Marrakech, Computer Science Engineering  
-- 🌍 Member of EMJE (ENSA Marrakech Junior Entreprise) – Web Development Cell  
-- 💻 I build creative and responsive web applications  
-- 🤖 Worked on a **robotic project** and won a **competition** with my team  
-- 🛠️ Developed an **absence management app** using **PHP** with my team  
-- 🧠 Collaborated on a **Démineur (Minesweeper) game** project and implemented **AI** into it  
-
----
-
-**Languages and Tools**
-
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-
----
-
-| <a href="https://github.com/MouadBourquouquou/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MouadBourquouquou&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mouad's GitHub stats" /></a> | <a href="https://github.com/MouadBourquouquou/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadBourquouquou&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
-### 🧩 Top Projects
-
-<a href="https://github.com/MouadBourquouquou/Gestion-absence-PHP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBourquouquou&repo=Gestion-absence-PHP&theme=buefy" />
-</a>
-<a href="https://github.com/MouadBourquouquou/DimineurGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBourquouquou&repo=DimineurGame&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://www.linkedin.com/in/mouad-bourquouquou-94714b266/">
-  <img align="right" alt="Mouad | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mouad-Bourquouquou&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
