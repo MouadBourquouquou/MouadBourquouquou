@@ -2,13 +2,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mouad+Bourquouquou....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Mouad+Bourquouquou....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mouad-bourquouquou/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/mouad.bourquouquou/" title="Instagram Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -51,14 +50,14 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <p align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=Mouad-Bourquouquou&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mouad-Bourquouquou&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=MouadBourquouquou&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MouadBourquouquou&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </p>
 
 <br>
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-Bourquouquou&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact" alt="Top Languages" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadBourquouquou&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact" />
 </p>
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mouad-Bourquouquou&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MouadBourquouquou&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
