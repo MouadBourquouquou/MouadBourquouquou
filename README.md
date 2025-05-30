@@ -1,13 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mouad-Bourquouquou">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/MouadBourquouquou?tab=repositories">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Mouad+Bourquouquou....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mouad-bourquouquou/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/mouad-bourquouquou-94714b266/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
